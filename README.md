@@ -12,9 +12,9 @@ A space shooter where you can fly around using your keyboard and shoot asteroids
 ## References
 Created using [Godot 3.4.2](https://godotengine.org/download)
 
-https://kenney.nl/assets/space-shooter-extension 
-https://opengameart.org/content/explosion-sheet
-https://esahubble.org/images/heic0109a/
+[https://kenney.nl/assets/space-shooter-extension](url) 
+[https://opengameart.org/content/explosion-sheet](url)
+[https://esahubble.org/images/heic0109a/](url)
 
 ## Future Development
 Nope. I'm not going to touch this again.
